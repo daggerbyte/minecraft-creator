@@ -38,7 +38,7 @@ Optional. A player name `string` or [`target selector`](https://learn.microsoft.
 - `position: x y z`: position
 Optional. `Vector` [x y z] of the position sounds originate from.
 - `sound`: string
-Required. A `string` that defines the sound. Should be defined in `sound.definitions.josn`.
+Required. A `string` that defines the sound. Should be defined in `sound_definitions.josn`.
 - `volume`: float
 Optional. A `float` that specifies the volume. Between 0.0 and 1.0. Below 1.0 diminishes the sound. 0 is inaudible.
 Default: `1.0`.
